@@ -1,2 +1,2 @@
 # QQComic
-Spider for scrapy QQComic 's volums
+Spider for scrapy QQComic 's volumes
